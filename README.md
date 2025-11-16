@@ -1,4 +1,4 @@
-# OnboardJS Vite Example with ShadCN UI
+# OnboardJS Vite Example with ShadCN U
 
 A comprehensive example demonstrating the integration of OnboardJS with Vite and React Router for building interactive, multi-step onboarding experiences in React applications. This example is heavily inspired by [Linear](https://linear.app/)'s onboarding flow.
 
